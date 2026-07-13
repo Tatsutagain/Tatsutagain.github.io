@@ -1,3 +1,8 @@
+---
+layout: page
+tytle: sortware Eng. lecture note
+permalink: /docs/softwareEng2026
+---
 # ソフトウェア工学（第1回～第6回）まとめ
 
 ## 第1回　ガイダンス
